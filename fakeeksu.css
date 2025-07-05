@@ -1,0 +1,89 @@
+body{
+background-color: rgb(248, 243, 240);
+}
+
+.site-header {
+    padding-top: 20px;
+    height: 50px;
+    background-color: peru;
+    text-align: center;
+    color: white;
+    align-self: center;
+}
+
+h2 a{
+   
+    text-align: center;
+    color: rgb(152, 241, 7);
+    font-size: 2px;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+h2 {    
+    margin-left: 50px;
+    margin-right: 50px; 
+    background: url('cosmic-background-with-colorful-laser-lights-with-cool-shapes.jpg')no-repeat center center/cover ;
+    height: 60vh;
+    align-items: left;
+    flex-direction: column;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5);
+    text-align: left;
+    color: rgb(252, 249, 249);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding: 60px;
+}
+
+p1{
+    text-align: center;
+    color: brown;
+    text-transform: uppercase;
+    padding: 40px;
+}
+
+
+p{
+    text-align: center;
+    color: brown;
+    text-transform: uppercase;
+    padding: 40px;
+
+}
+
+.outerbox1{
+position: relative;
+width: 600px;
+height: 120px;
+background-color: brown;   
+
+}
+ 
+.innerbox1{
+    background: url('20250629_150646.png') no-repeat center center/cover;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(245, 161, 6);
+    transform: translatey(-40%);
+    margin-bottom: -20px;
+    }
+
+a{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    text-decoration-line:none;
+    
+}
+
+.belowboxes{
+width: 580px;
+height: 120px;
+background-color: rgb(238, 227, 227);
+border-color: rgb(230, 198, 18);
+border-style: solid;
+text-align: left;
+padding-top: 30px;
+padding-left: 20px;
+}
+

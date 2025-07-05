@@ -1,0 +1,51 @@
+body{
+background-color: rgb(248, 243, 240);
+margin:auto;
+margin-top: 100px;
+padding: auto;
+justify-content: center;
+border-color: rgb(240, 137, 2);
+border-style: solid;
+width: 250px;
+
+}
+
+.site-header {
+    padding-top: 20px;
+    height: 50px;
+    background-color: peru;
+    text-align: center;
+    color: white;
+    align-self: center;
+}
+
+.login-box input {
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: none;
+  border-bottom: solid orange;
+  background-color: lightgoldenrodyellow;
+  color: rgb(17, 0, 0);
+}
+
+.login-btn {
+  width: 80%;
+  padding: 10px;
+  background-color: brown;
+  border: ;
+  border-color: rgb(241, 241, 237);
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: :pointer;
+}
+
+.signup-text {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.signup-text a {
+  color: orange;
+  text-decoration: none;
+}
